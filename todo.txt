@@ -1,3 +1,4 @@
  - Nachbarn benachrichtigen
  - Einkaufen
  - Musikliste erstellen
+ - Einkaufsliste erstellen
