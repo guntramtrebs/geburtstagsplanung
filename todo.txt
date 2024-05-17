@@ -1,0 +1,3 @@
+ - Nachbarn benachrichtigen
+ - Einkaufen
+ - Musikliste erstellen
